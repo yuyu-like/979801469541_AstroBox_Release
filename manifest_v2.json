@@ -1,0 +1,76 @@
+{
+  "item": {
+    "id": "979801469541",
+    "restype": "watchface",
+    "name": "同心圆",
+    "description": "同心圆数字表盘形态，层次分明的圆环设计，视觉层次丰富，时间信息清晰易读。流畅的切换动画，完美契合屏幕比例与分辨率（目前仅支持小米手环 9 Pro）",
+    "preview": [
+      "图1.png",
+      "t2.png",
+      "t3.png",
+      "t4.png",
+      "t5.png",
+      "t6.png",
+      "头.png"
+    ],
+    "icon": "图标.png",
+    "cover": "图1.png",
+    "author": [
+      {
+        "name": "钰钰",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "icon": "wechat-logo",
+      "title": "QQ群",
+      "url": "https://qm.qq.com/q/ODqnWdZ9yQ"
+    },
+    {
+      "icon": "rss",
+      "title": "钰钰表盘工坊",
+      "url": "https://yuwatch.pythonanywhere.com/"
+    }
+  ],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "同心圆_xin.bin"
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "同心圆_xin9.bin"
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "同心圆_xin10.bin"
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "同心圆_xin10.bin"
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "同心圆_xins3.bin"
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "同心圆_xins4.bin"
+    },
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "同心圆_xinrw5.bin"
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "同心圆_xinrw5E.bin"
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "同心圆_xins4E.bin"
+    }
+  },
+  "ext": {}
+}
